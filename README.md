@@ -102,7 +102,14 @@ Using IMF macroeconomic data across 194 countries, the project applies standardi
         Decision Layer
     (Identify Safe, Risky & High-Growth
     Investment Destinations)
+## 🎯 Key Outcomes
++ Centralized macroeconomic analysis for 194 countries
 
++ Executive-friendly dashboard with actionable insights
+
++ Strong alignment between data analytics and real-world investment strategy
+
++ Scalable design for future country-level or sector-level expansion
 
  
  
