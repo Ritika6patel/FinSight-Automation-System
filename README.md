@@ -110,6 +110,8 @@ Using IMF macroeconomic data across 194 countries, the project applies standardi
 + Strong alignment between data analytics and real-world investment strategy
 
 + Scalable design for future country-level or sector-level expansion
+  ## 📁 Dashboard Screenshots
+  Dashboard looks like.-![]
 
  
  
