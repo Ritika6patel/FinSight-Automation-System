@@ -110,7 +110,10 @@ Using IMF macroeconomic data across 194 countries, the project applies standardi
 + Strong alignment between data analytics and real-world investment strategy
 
 + Scalable design for future country-level or sector-level expansion
+  ## Dashboard
 
   ![image alt](https://github.com/Ritika6patel/FinSight-Automation-System/blob/master/Dashboard%20Images/Image-1.png)
+  ![image alt](https://github.com/Ritika6patel/FinSight-Automation-System/blob/master/Dashboard%20Images/Image-2.png)
+  ![image alt](https://github.com/Ritika6patel/FinSight-Automation-System/blob/master/Dashboard%20Images/Image-3.png)
   
  
