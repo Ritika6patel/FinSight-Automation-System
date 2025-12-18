@@ -74,3 +74,35 @@ The output is a fully automated Excel dashboard with KPI cards and analytical vi
 ## 🧮 Key Calculations & Methodology
 
 Using IMF macroeconomic data across 194 countries, the project applies standardized calculations to derive key investment indicators, including global average inflation, investment as a percentage of GDP, and gross national savings. Advanced metrics such as the Misery Index (inflation + unemployment), growth acceleration analysis, fiscal risk scoring, and multi-factor investment “sweet spot” models are computed to evaluate economic stability, growth potential, and risk exposure. These methodologies transform large,datasets into decision-ready global investment intelligence.
+ ## 🔄 Project Layer diagram
+    IMF Data Sources (194 Countries, Multi-Year)
+                ↓
+        Data Ingestion Layer
+    (Inflation, GDP, Investment, Savings,
+    Unemployment, Debt Indicators)
+                ↓
+        Data Cleaning & Standardization
+    (Format alignment, validation, consistency)
+                ↓
+        Analytical Layer
+    (Derived Metrics & Indices)
+    • Global Avg Inflation
+    • Investment % of GDP
+    • Gross National Savings
+    • Misery Index
+    • Fiscal Risk Indicators
+    • Growth Acceleration
+                ↓
+        Visualization Layer
+    (Interactive Excel Dashboards)
+    • KPI Cards
+    • Country & Year Filters
+    • Investment & Risk Visuals
+                ↓
+        Decision Layer
+    (Identify Safe, Risky & High-Growth
+    Investment Destinations)
+
+
+ 
+ 
