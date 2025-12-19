@@ -16,7 +16,7 @@ The output is a fully automated Excel dashboard with KPI cards and analytical vi
 ## Workflow
 **1. Automated Data Ingestion**
 
-+ Fetches 200+ daily Excel files from shared folders/cloud storage
++ Fetches  daily Excel files from shared folders/cloud storage
 
 + Validates file structure and naming conventions
 
